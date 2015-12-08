@@ -3,8 +3,8 @@ Create PNG QR code images for Emails, URLs and text from inputed text
 
 
 Create a PHPQR code 
-// include BarcodeQR class
-include "BarcodeQR.php";
+// include phpQR class
+include "phpqr.php";
 
 // set BarcodeQR object
 $qr = new BarcodeQR();
